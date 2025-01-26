@@ -1,0 +1,21 @@
+// tipo de dato: string
+
+let string1 = "Hola mundo";
+let string2 = 'JavaScript es genial';
+let string3 = `${string1} feliz :)`;
+let string4 = string1 + ' ' + string2;
+
+console.log(string1);
+console.log(string2);
+console.log(string3);
+console.log(string4);
+console.log('=====================');
+
+let frase = 'JavaScript es Extremadamente Genial';
+console.log(frase.length);
+// Hacer todo minuscula
+console.log(frase.toLowerCase());
+console.log(frase.toUpperCase());
+
+// Extraer una palabra
+console.log(frase.substring(0, 10));

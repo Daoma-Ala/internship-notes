@@ -1,0 +1,38 @@
+// Primitivos
+
+// string
+let nombre = 'Daniel';
+
+// number
+let edad = 22;
+
+// Boolean
+let esMayorDeEdad = true;
+
+// null -- Vacio
+let noHayValor = null;
+
+// undefined
+let noDefenido = undefined;
+
+// symbol  -- valor unico
+let simboloUnico  = Symbol('unico');
+
+// bigint
+let numeroGrande = 2n
+
+// Complejos
+
+// object
+let carro = {
+	marca: 'Tesla',
+	modelo: 'Model s',
+}
+
+// arrays
+let frutas = ['Manzana', 'Banana', 'Uvas'];
+
+// Funciones
+function saludar(){
+
+}

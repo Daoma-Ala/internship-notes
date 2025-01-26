@@ -1,0 +1,17 @@
+const numeroSecreto = Math.floor(Math.random()*10+1);
+
+const numeroJugador = parseInt(
+	prompt("Adivina el numero del 1 al 10: ")
+);
+
+console.log(`Este es el numero con el que juegas: ${numeroJugador}`);
+
+if(numeroSecreto === numeroJugador){
+	console.log("Ganaste, adivinaste el numero secreto");
+}else if (numeroJugador < numeroSecreto){
+	console.log("Tu numero esta por debajo del numero secreto");
+} else {
+	console.log("Tu numero esta por encima del numero secreto");
+}
+
+
