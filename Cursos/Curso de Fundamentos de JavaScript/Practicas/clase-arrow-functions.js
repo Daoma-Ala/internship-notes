@@ -1,0 +1,25 @@
+const greeting = function (name){
+	return `Hola ${name}`;
+}
+
+// Arrow Function, pero con un retorno explicito
+const newGreeting = (name) =>{
+	return `Hola ${name}`;
+}
+
+// Arrow Function, pero con un retorno implicito
+const newGreetingImplicit = name => `Hola ${name}`;
+const newGreetingImplicitWithTwoParameters =(name,lastName) => `Hola ${name} ${lastName}`;
+
+// Lexical binding
+const finctionalCharacter = {
+	name: 'Uncle Ben',
+	messageWithTradicionalFunction: function (message){
+		console.log(`${this.name} say: ${message}`);
+	},
+	messageWithArrowFunction: message => console.log(`${this.name} say: ${message}`),
+
+}
+
+finctionalCharacter.messageWithTradicionalFunction('With reat power comes great responsability');
+finctionalCharacter.messageWithArrowFunction('With reat power comes great responsability');

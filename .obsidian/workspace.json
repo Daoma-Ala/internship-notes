@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMARIO.md",
+                "file": "Cursos/Curso de Fundamentos de JavaScript/4. Manipulación de Arrays/23. Spread operator= casos de uso.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TEMARIO"
+              "title": "23. Spread operator= casos de uso"
             }
           }
         ]
@@ -162,26 +162,46 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c7a366972dc0d97e",
+  "active": "9810eaa6b3d6d99e",
   "lastOpenFiles": [
-    "Cursos/Curso de Fundamentos de JavaScript/Introducción a JavaScript/5. Conversión de tipos explícita e implícita.md",
+    "Cursos/Curso de Fundamentos de JavaScript/5.",
+    "Cursos/Curso de Fundamentos de JavaScript/4. Manipulación de Arrays/22.  Slice.md",
+    "Cursos/Curso de Fundamentos de JavaScript/4. Manipulación de Arrays/23. Spread operator= casos de uso.md",
+    "Cursos/Curso de Fundamentos de JavaScript/Practicas/clase-spread-operator.js",
+    "Cursos/Curso de Fundamentos de JavaScript/4. Manipulación de Arrays/21. Búsqueda de elementos con find( ) y findIndex( ).md",
+    "Cursos/Curso de Fundamentos de JavaScript/Practicas/slice.js",
+    "Cursos/Curso de Fundamentos de JavaScript/4. Manipulación de Arrays/20. Filtrado y reducción con filter( ) y reduce( ).md",
+    "Cursos/Curso de Fundamentos de JavaScript/Practicas/clase-find-findindex.js",
+    "Cursos/Curso de Fundamentos de JavaScript/4. Manipulación de Arrays/19. Iteración con map( ) y forEach( ).md",
+    "Cursos/Curso de Fundamentos de JavaScript/Practicas/clase-filter-reduce.js",
+    "Cursos/Curso de Fundamentos de JavaScript/4. Manipulación de Arrays/18. Modificación básica del final con push( ), pop( ).md",
+    "Cursos/Curso de Fundamentos de JavaScript/Practicas/clase-map-foreach.js",
+    "Cursos/Curso de Fundamentos de JavaScript/3. Funciones y This/15. Arrow function y enlace léxico.md",
+    "Cursos/Curso de Fundamentos de JavaScript/3. Funciones y This/14. Funciones puras e impuras.md",
+    "Cursos/Curso de Fundamentos de JavaScript/4. Manipulación de Arrays/17. Introducción a Arrays.md",
+    "Cursos/Curso de Fundamentos de JavaScript/Practicas/clase-push-pop.js",
+    "Cursos/Curso de Fundamentos de JavaScript/Practicas/array.js~",
+    "Cursos/Curso de Fundamentos de JavaScript/3. Funciones y This/16. Contextos de ejecución y scope chain.md",
     "TEMARIO.md",
-    "Cursos/Curso de Fundamentos de JavaScript/Introducción a JavaScript/1. Anatomía de las Variables.md",
-    "Cursos/Curso de Fundamentos de JavaScript/12. Funciones.md",
+    "Cursos/Curso de Fundamentos de JavaScript/Practicas/array.js",
     "Cursos/Avances.md",
-    "Cursos/Curso.md",
-    "Cursos/Curso de Fundamentos de JavaScript/Introducción a JavaScript/4. Operadores aritméticos.md",
-    "Cursos/Curso de Fundamentos de JavaScript/Introducción a JavaScript/3. Creación de strings.md",
-    "Cursos/Curso de Fundamentos de JavaScript/Introducción a JavaScript/2. Tipos de datos en JavaScript.md",
-    "clase-variables.js.md",
-    "Js/clase-variables.js.md",
-    "Js",
-    "JS/clase-variables.js.md",
-    "JS",
+    "Cursos/Curso de Fundamentos de JavaScript/1. Introducción a JavaScript/2. Tipos de datos en JavaScript.md",
+    "Cursos/Curso de Fundamentos de JavaScript/4. Manipulación de Arrays",
+    "Cursos/img",
+    "Cursos/img/Pasted image 20250126120757.png",
+    "Cursos/Curso de Fundamentos de JavaScript/3. Funciones y This/13. Funciones vs Métodos.md",
+    "Cursos/Curso de Fundamentos de JavaScript/3. Funciones y This/12. Anatomía de una función.md",
+    "Cursos/Curso de Fundamentos de JavaScript/2. Estructuras de Control y Lógica/7. Operadores Logicos.md",
+    "Cursos/Curso de Fundamentos de JavaScript/Sin título.md",
+    "Cursos/Curso de Fundamentos de JavaScript/2. Estructuras de Control y Lógica/11.  while.md",
+    "Cursos/Curso de Fundamentos de JavaScript/2. Estructuras de Control y Lógica/10. Loop.md",
+    "Cursos/Curso de Fundamentos de JavaScript/2. Estructuras de Control y Lógica/6. Operadores de comparación.md",
+    "Cursos/Curso de Fundamentos de JavaScript/12. Funciones.md",
+    "Cursos/Curso de Fundamentos de JavaScript/2. Estructuras de Control y Lógica/9. Ejecución condicional switch.md",
+    "Cursos/Curso de Fundamentos de JavaScript/2. Estructuras de Control y Lógica/8. Ejecución condicional if.md",
+    "Cursos/Curso de Fundamentos de JavaScript/1. Introducción a JavaScript/5. Conversión de tipos explícita e implícita.md",
+    "Cursos/Curso de Fundamentos de JavaScript/1. Introducción a JavaScript/1. Anatomía de las Variables.md",
     "Cursos/Curso de Fundamentos de JavaScript/Introducción a JavaScript/Sin título.canvas",
-    "Cursos/Curso de Fundamentos de JavaScript/Introducción a JavaScript",
-    "Cursos/Curso de Fundamentos de JavaScript/11.  while.md",
-    "Sin título.canvas",
-    "Cursos/Curso de Fundamentos de JavaScript/6. Operadores de comparación.md"
+    "Sin título.canvas"
   ]
 }
