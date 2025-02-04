@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b590011d9d386ae5",
+    "id": "bef9ecc285499cb5",
     "type": "split",
     "children": [
       {
-        "id": "afb3c518abba3a5c",
+        "id": "d954cf53350de2b0",
         "type": "tabs",
         "children": [
           {
-            "id": "a270a9f575ecf120",
+            "id": "21f31ca14e8bdeb7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,27 +23,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eb1fbe6515d1d870",
+    "id": "e41e40ff6e458c9b",
     "type": "split",
     "children": [
       {
-        "id": "fa7965e32081441f",
+        "id": "3a6e27eb67104081",
         "type": "tabs",
         "children": [
           {
-            "id": "9810eaa6b3d6d99e",
+            "id": "025fe970b97ea755",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
             }
           },
           {
-            "id": "53065d43db8b0822",
+            "id": "b22f280b08fbd540",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +61,7 @@
             }
           },
           {
-            "id": "93fd19593927b905",
+            "id": "636f9d8e60425c56",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 300
   },
   "right": {
-    "id": "49b12df8d793ff25",
+    "id": "d68650f26ae13749",
     "type": "split",
     "children": [
       {
-        "id": "801ab5bb68bec2fe",
+        "id": "b15971915d0c3870",
         "type": "tabs",
         "children": [
           {
-            "id": "3a4176109a55e0ba",
+            "id": "5d1d25574d088467",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,46 +99,49 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de README"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "0dc9f61c4b338fed",
+            "id": "aa2b5963c9c9ed8a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de README"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "21544c34052bb5c1",
+            "id": "2f1e1257d9923965",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Etiquetas"
             }
           },
           {
-            "id": "1812aea5fa3c5d5e",
+            "id": "6183b71f5bc9843d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de README"
+              "title": "Esquema"
             }
           }
         ]
@@ -158,56 +161,6 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a270a9f575ecf120",
-  "lastOpenFiles": [
-    "Cursos Twilio/Temario cursos de TWILIO.md",
-    "Cursos Twilio/Platform Developer - Certified Twilio Comms Platform Develop/Twilio.md",
-    "Cursos Twilio/Platform Developer - Certified Twilio Comms Platform Develop/2. Messaging introduction/1. Programmable Messaging Fundamentals/6. Resources.md",
-    "Cursos Twilio/Platform Developer - Certified Twilio Comms Platform Develop/2. Messaging introduction/1. Programmable Messaging Fundamentals/5. Messaging at Scale.md",
-    "Cursos Twilio/Platform Developer - Certified Twilio Comms Platform Develop/2. Messaging introduction/2. Notify Fundamentals/1. Introduction.md",
-    "Cursos js/Temario de cursos de js.md",
-    "Cursos Twilio/Platform Developer - Certified Twilio Comms Platform Develop/1. Platform introduction/1.  What is Twilio?.md",
-    "TEMARIO.md",
-    "Cursos Twilio/Platform Developer - Certified Twilio Comms Platform Develop/2. Messaging introduction/1. Programmable Messaging Fundamentals/1. Fundamentals.md",
-    "Cursos js/Curso de Asincronismo con JavaScript/practicas/node_modules/node-fetch/README.md",
-    "Cursos js/Curso de Asincronismo con JavaScript/2. Callbacks/3. Qué son los Callbacks.md",
-    "Cursos js/Avances.md",
-    "Cursos Twilio",
-    "Cursos js/Curso de Asincronismo con JavaScript/4. Async Await/11. Try and catch.md",
-    "Cursos js/Curso de Asincronismo con JavaScript/4. Async Await/10. Funciones asíncronas.md",
-    "Cursos js/Curso de Asincronismo con JavaScript/3. Promesas/8. Fetch.md",
-    "Cursos js/Curso de Asincronismo con JavaScript/2. Callbacks/5. Fetch data.md",
-    "Cursos js/Curso de Asincronismo con JavaScript/3. Promesas/7. Qué son las promesas.md",
-    "Cursos Twilio/Platform Developer - Certified Twilio Comms Platform Develop/2. Messaging introduction/2. Notify Fundamentals/4. Resources & Next Steps.md",
-    "Cursos js/Curso de Asincronismo con JavaScript/practicas/src/async/index.js",
-    "Cursos js/Curso de Asincronismo con JavaScript/practicas/src/async",
-    "Cursos js/Curso de Asincronismo con JavaScript/3. Promesas/9. Fetch Post.md",
-    "Cursos js/Curso de Asincronismo con JavaScript/4. Async Await",
-    "Cursos/Curso de Asincronismo con JavaScript/practicas/src/promise/tempCodeRunnerFile.js",
-    "Cursos js/Curso de Asincronismo con JavaScript/practicas/src/promise/challenge-post.js",
-    "Cursos js/Curso de Asincronismo con JavaScript/practicas/node_modules/web-streams-polyfill/dist/types/ponyfill.d.ts",
-    "Cursos js/Curso de Asincronismo con JavaScript/practicas/node_modules/web-streams-polyfill/dist/types/ts3.6/ponyfill.d.ts",
-    "Cursos js/Curso de Asincronismo con JavaScript/practicas/node_modules/web-streams-polyfill/dist/types/ts3.6/polyfill.d.ts",
-    "Cursos js/Curso de Asincronismo con JavaScript/practicas/node_modules/web-streams-polyfill/dist/types/ts3.6",
-    "Cursos js/Curso de Asincronismo con JavaScript/practicas/node_modules/web-streams-polyfill/README.md",
-    "Cursos js/Curso de Asincronismo con JavaScript/practicas/node_modules/node-domexception/README.md",
-    "Cursos js/Curso de Asincronismo con JavaScript/practicas/node_modules/formdata-polyfill/README.md",
-    "Cursos js/Curso de Asincronismo con JavaScript/practicas/node_modules/data-uri-to-buffer/README.md",
-    "Cursos js/Curso de Asincronismo con JavaScript/practicas/node_modules/fetch-blob/README.md",
-    "Cursos js/Curso de Asincronismo con JavaScript/practicas/node_modules/node-fetch/LICENSE.md",
-    "Cursos Twilio/Platform Developer - Certified Twilio Comms Platform Develop/2. Messaging introduction/2. Notify Fundamentals/2. Lexicon.md",
-    "Cursos js/img/Pasted image 20250130113645.png",
-    "Cursos/Platform Developer - Certified Twilio Comms Platform Develop/2. Messaging introduction/2. Notify Fundamentals/Sin título.canvas",
-    "Cursos js/img/Pasted image 20250130104346.png",
-    "Cursos js/img/Pasted image 20250130103115.png",
-    "Cursos js/img/Pasted image 20250127120158.png",
-    "Cursos js/img/Pasted image 20250128194700.png",
-    "Cursos js/img/Pasted image 20250128200645.png",
-    "Cursos js/img/Pasted image 20250128200652.png",
-    "Cursos js/img/Pasted image 20250128194710.png",
-    "Cursos js/img/Pasted image 20250128142934.png",
-    "Cursos js/img/Pasted image 20250128141531.png",
-    "Cursos/Curso de Fundamentos de JavaScript/Introducción a JavaScript/Sin título.canvas",
-    "Sin título.canvas"
-  ]
+  "active": "21f31ca14e8bdeb7",
+  "lastOpenFiles": []
 }
