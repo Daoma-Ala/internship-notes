@@ -14,7 +14,7 @@
 			[[5. Messaging at Scale]]
 			[[6. Resources]]
 		 - #### Notify Fundamentals
-		 	 [[1. Introduction]]
+		 	 [[Cursos Twilio/Platform Developer - Certified Twilio Comms Platform Develop/2. Messaging introduction/2. Notify Fundamentals/1. Introduction]]
 		 	 [[2. Lexicon]]
 		 	 [[3. Sending Notifications]]
 		 	 [[4. Resources & Next Steps]]
