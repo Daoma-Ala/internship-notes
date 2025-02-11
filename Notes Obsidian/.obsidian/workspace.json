@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos Twilio/Platform Developer - Certified Twilio Comms Platform Develop/1. Platform introduction/3. Webhooks.md",
+                "file": "Cursos Twilio/Platform Developer - Certified Twilio Comms Platform Develop/1. Platform introduction/1.What is Twilio?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Webhooks"
+              "title": "1.What is Twilio?"
             }
           }
         ]
@@ -163,10 +163,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9810eaa6b3d6d99e",
+  "active": "4f988fe42b8b900d",
   "lastOpenFiles": [
     "Cursos Twilio/Platform Developer - Certified Twilio Comms Platform Develop/1. Platform introduction/2.TwiML.md",
-    "Cursos Twilio/Platform Developer - Certified Twilio Comms Platform Develop/1. Platform introduction/1. What is Twilio?.md",
+    "Cursos Twilio/Platform Developer - Certified Twilio Comms Platform Develop/1. Platform introduction/1.What is Twilio?.md",
+    "Cursos Twilio/Platform Developer - Certified Twilio Comms Platform Develop/Temario curso de TWILIO -- Platform Developer.md",
+    "TEMARIO.md",
+    "Cursos Twilio/Platform Developer - Certified Twilio Comms Platform Develop/1. Platform introduction/3. Webhooks.md",
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/4. CRM Integration Exercises/1. Flexercise 3 Embedding CRMs/7. Flex Inside a CRM.md",
     "img/Pasted image 20250210210352.png",
     "img/Pasted image 20250210210212.png",
@@ -202,10 +205,7 @@
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations/1. Introduction.md",
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/Sin título.md",
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations",
-    "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/2. Plugin/2. Build your first plugin.md",
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations",
-    "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/1. Flex/1. Introduction.md",
-    "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/2. Plugin/1. Flex plugins.md",
     "GIT",
     "Cursos de Front/Curso de JavaScript Manipulación del DOM/3. Manipulando Eventos en el DOM",
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/2. Plugin",
