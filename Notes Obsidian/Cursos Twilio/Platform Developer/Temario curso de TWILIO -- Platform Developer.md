@@ -32,7 +32,7 @@
 		[[3. Concurrency]]
 		[[4. Resources]]
 		- #### TaskRouter Fundamentals
-			[[1. What is TaskRouter?]]
+			[[1. What is TaskRouter]]
 			[[2. Task Lifecycle]]
 			[[3. Resources]]
 			- ##### Concepts
