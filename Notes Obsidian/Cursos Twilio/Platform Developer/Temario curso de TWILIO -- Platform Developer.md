@@ -1,7 +1,7 @@
 # Contenido
 - ## Platform Developer - Certified Twilio Comms Platform Developt
 	 - ### Platform introduction
-		[[1.What is Twilio?]]
+		[[1.What is Twilio]]
 		[[2.TwiML]]
 		[[3. Webhooks]]
 		[[4. SIDs]]
