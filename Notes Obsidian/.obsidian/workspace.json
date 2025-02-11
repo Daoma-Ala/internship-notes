@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos Twilio/Platform Developer/Temario curso de TWILIO -- Platform Developer.md",
+                "file": "Cursos Twilio/Platform Developer/1. Platform introduction/1.What is Twilio?.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temario curso de TWILIO -- Platform Developer"
+              "title": "1.What is Twilio?"
             }
           }
         ]
@@ -163,10 +163,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9810eaa6b3d6d99e",
+  "active": "4f988fe42b8b900d",
   "lastOpenFiles": [
-    "Cursos Twilio/Platform Developer/3. Programmable Voice Fundamentals/2. Webhooks in Programmable Voice.md",
     "Cursos Twilio/Platform Developer/Temario curso de TWILIO -- Platform Developer.md",
+    "Cursos Twilio/Platform Developer/3. Programmable Voice Fundamentals/2. Webhooks in Programmable Voice.md",
     "TEMARIO.md",
     "Cursos Twilio/Flex Developer Certification/Temario curso de TWILIO -- Flex Developer.md",
     "Cursos Twilio/Platform Developer/1. Platform introduction/1.What is Twilio?.md",
