@@ -18,4 +18,11 @@
 	[[3. Twilio Studio]]
 	[[4. Flex user management]]
 	[[5. Flex Insights]]
-		
+- ## Flexercises 1 & 2
+	 - ### Flexercise 1 Account Setup & Plugin Builder
+		 - #### Flex
+		 [[Cursos Twilio/Flex Developer Certification - Certified Flex Developer/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/1. Flex/1. Introduction|1. Introduction]]
+			[[2. Flex UI]]
+		- #### Plugin
+			[[1. Flex plugins]]
+			[[2. Build your first plugin]]
