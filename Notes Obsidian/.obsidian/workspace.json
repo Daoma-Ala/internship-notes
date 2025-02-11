@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos Twilio/Platform Developer - Certified Twilio/1. Platform introduction/1.What is Twilio?.md",
+                "file": "Cursos Twilio/Platform Developer - Certified Twilio/Temario curso de TWILIO -- Platform Developer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.What is Twilio?"
+              "title": "Temario curso de TWILIO -- Platform Developer"
             }
           }
         ]
@@ -163,12 +163,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9810eaa6b3d6d99e",
+  "active": "4f988fe42b8b900d",
   "lastOpenFiles": [
-    "Cursos Twilio/Platform Developer - Certified Twilio/1. Platform introduction/2.TwiML.md",
-    "Cursos Twilio/Platform Developer - Certified Twilio/1. Platform introduction/1.What is Twilio?.md",
+    "Cursos Twilio/Platform Developer - Certified Twilio/3. Programmable Voice Fundamentals/2. Webhooks in Programmable Voice.md",
     "Cursos Twilio/Platform Developer - Certified Twilio/Temario curso de TWILIO -- Platform Developer.md",
     "TEMARIO.md",
+    "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/Temario curso de TWILIO -- Flex Developer.md",
+    "Cursos Twilio/Platform Developer - Certified Twilio/1. Platform introduction/1.What is Twilio?.md",
+    "Cursos Twilio/Platform Developer - Certified Twilio/1. Platform introduction/2.TwiML.md",
     "Cursos Twilio/Platform Developer - Certified Twilio/1. Platform introduction/3. Webhooks.md",
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/4. CRM Integration Exercises/1. Flexercise 3 Embedding CRMs/7. Flex Inside a CRM.md",
     "img/Pasted image 20250210210352.png",
@@ -188,7 +190,6 @@
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/4. CRM Integration Exercises/1. Flexercise 3 Embedding CRMs/3. Building an IVR.md",
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/4. CRM Integration Exercises/1. Flexercise 3 Embedding CRMs/2. Introducing Our CRMs.md",
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/4. CRM Integration Exercises/1. Flexercise 3 Embedding CRMs/1. About Integrations.md",
-    "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/Temario curso de TWILIO -- Flex Developer.md",
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/4. CRM Integration Exercises/1. Flexercise 3 Embedding CRMs",
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/1. Studio and Serverless/2. Twilio Functions and Assets Fundamentals/6. Troubleshooting.md",
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/4. CRM Integration Exercises",
@@ -203,7 +204,6 @@
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations/3. Customizing Theme.md",
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations/2. Changing Logo.md",
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations/1. Introduction.md",
-    "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/Sin título.md",
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations",
     "Cursos Twilio/Flex Developer Certification - Certified Flex Developer/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations",
     "GIT",
