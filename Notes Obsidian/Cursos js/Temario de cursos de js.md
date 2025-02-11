@@ -35,7 +35,7 @@
 		
 - ## Curso de JavaScript Engine (V8) y el NavegadorActivar para editar nombre de la tarea
 	[[1. Historia de Javascript]]
-		[[2. ¿Cómo funciona el JavaScript Engine?]]
+		[[2. ¿Cómo funciona el JavaScript Engine]]
 		[[3. V8, el JavaScript Engine de Chrome]]
 		[[4. Profundizando en el Engine]]
 		[[5. Ejemplo de Objeto global y hoisting]]
