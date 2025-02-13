@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/2. Plugin/2. Build your first plugin.md",
+                "file": "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/2. React Components/2. Styling React Components.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Build your first plugin"
+              "title": "2. Styling React Components"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 385.5
   },
   "right": {
     "id": "49b12df8d793ff25",
@@ -165,13 +165,21 @@
   },
   "active": "ba31abf1fdd499d0",
   "lastOpenFiles": [
+    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/2. React Components/1. React Components.md",
+    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/2. React Components/2. Styling React Components.md",
+    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/2. React Components/3. Building a Custom React Component.md",
+    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations/4. Creating Plugin.md",
+    "Cursos de Front/Curso de React/1. Maquetación con react/2. Componentes de TODO Machine.md",
+    "Cursos de Front/Curso de React/1. Maquetación con react/1.  ¿Qué es un componente.md",
+    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations/3. Customizing Theme.md",
+    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations/2. Changing Logo.md",
+    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations/1. Introduction.md",
+    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/2. Plugin/2. Build your first plugin.md",
     "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/2. Plugin/1. Flex plugins.md",
     "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/1. Flex/2. Flex UI.md",
     "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/1. Flex/1. Introduction.md",
     "Cursos de Front/Curso de React/1. Maquetación con react/4. Estilos CSS en React.md",
     "Cursos de Front/Curso de React/1. Maquetación con react/3.  ¿Cómo se comunican los componentes- Props y atributos.md",
-    "Cursos de Front/Curso de React/1. Maquetación con react/2. Componentes de TODO Machine.md",
-    "Cursos de Front/Curso de React/1. Maquetación con react/1.  ¿Qué es un componente.md",
     "img/Pasted image 20250211135750.png",
     "img/Pasted image 20250211135644.png",
     "Cursos Twilio/Flex Developer Certification/2. Flex Introduction/5. Flex Insights.md",
@@ -187,18 +195,10 @@
     "Cursos Twilio/Flex Developer Certification/1. Studio and Serverless/2. Twilio Functions and Assets Fundamentals/4. Functions.md",
     "Cursos Twilio/Flex Developer Certification/1. Studio and Serverless/2. Twilio Functions and Assets Fundamentals/6. Troubleshooting.md",
     "Cursos Twilio/Flex Developer Certification/1. Studio and Serverless/2. Twilio Functions and Assets Fundamentals/3. Assets.md",
-    "Cursos Twilio/Flex Developer Certification/1. Studio and Serverless/2. Twilio Functions and Assets Fundamentals/2. UI vs API.md",
-    "Cursos Twilio/Flex Developer Certification/1. Studio and Serverless/2. Twilio Functions and Assets Fundamentals/1. Introduction.md",
-    "Cursos Twilio/Flex Developer Certification/1. Studio and Serverless/1. Studio Overview/Resources.md",
-    "Cursos Twilio/Flex Developer Certification/1. Studio and Serverless/1. Studio Overview/1. Studio Walkthrough.md",
-    "Cursos Twilio/Flex Developer Certification/4. CRM Integration Exercises/2. Flexercise 4 Advanced CRM Integration/1. StorkCRM.md",
     "img/Pasted image 20250211095101.png",
     "Cursos Twilio/Flex Developer Certification/4. CRM Integration Exercises/2. Flexercise 4 Advanced CRM Integration",
-    "Cursos Twilio/Flex Developer Certification/Temario curso de TWILIO -- Flex Developer.md",
-    "TEMARIO.md",
     "GIT",
     "Sin nombre",
-    "Cursos js/Curso de JavaScript Engine (V8) y el Navegador/2. ¿Cómo funciona el JavaScript Engine.md",
     "img/Pasted image 20250210210352.png",
     "img/Pasted image 20250210210212.png",
     "img/Pasted image 20250210210058.png",
