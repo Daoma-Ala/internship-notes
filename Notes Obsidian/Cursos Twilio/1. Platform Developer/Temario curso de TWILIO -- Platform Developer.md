@@ -12,9 +12,9 @@
 			[[3. Encoding, Segmentation & Opt-Outs]]
 			[[4. International Messaging Caveats]]
 			[[5. Messaging at Scale]]
-			[[Cursos Twilio/Platform Developer/3. Programmable Voice Fundamentals/6. Resources]]
+			[[Cursos Twilio/1. Platform Developer/3. Programmable Voice Fundamentals/6. Resources]]
 		 - #### Notify Fundamentals
-		 	 [[Cursos Twilio/Platform Developer/2. Messaging introduction/2. Notify Fundamentals/1. Introduction]]
+		 	 [[Cursos Twilio/1. Platform Developer/2. Messaging introduction/2. Notify Fundamentals/1. Introduction]]
 		 	 [[2. Lexicon]]
 		 	 [[3. Sending Notifications]]
 		 	 [[4. Resources & Next Steps]]
@@ -24,7 +24,7 @@
 		[[3. Call Flows]]
 		[[4. Bridging Telephony Networks]]
 		[[5. Pricing]]
-		[[Cursos Twilio/Platform Developer/3. Programmable Voice Fundamentals/6. Resources|6. Resources]]
+		[[Cursos Twilio/1. Platform Developer/3. Programmable Voice Fundamentals/6. Resources|6. Resources]]
 	- ### Proxy and TaskRouter
 		- #### Proxy Fundamentals
 		[[1. Motivation for Proxy]]

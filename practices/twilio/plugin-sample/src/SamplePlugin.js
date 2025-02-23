@@ -17,11 +17,26 @@ export default class SamplePlugin extends FlexPlugin {
    * @param flex { typeof import('@twilio/flex-ui') }
    */
   async init(flex, manager) {
-    Flex.WorkerDirectory.Tabs.Content.add(
-      <Flex.Tab key="my-tab" label="My Tab">
-            <div> "Hello World"
-            </div>
-      </Flex.Tab>
-    );
+ 
+    flex.NoTasksCanvas
+    .Content
+    .add(
+      <div style={{ color: "red", padding: 20 }} key="warning">
+        You are not available to receive tasks!
+      </div>,
+      {
+        if: props => props.worker.activity.available === false
+      });
+      flex.AgentDesktopView.Content.add(
+        <div key="custom-tab-content">
+          <h3>Mi Pestaña Personalizada</h3>
+          <p>Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.Contenido personalizado en la pestaña.</p>
+        </div>
+      );
+
+
+
+      
+      
   }
 }

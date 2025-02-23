@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8923326d17bf4bdd",
+        "id": "e3a640ef9e684162",
         "type": "tabs",
         "children": [
           {
-            "id": "ba31abf1fdd499d0",
+            "id": "91318b57cf84ab6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/2. React Components/2. Styling React Components.md",
+                "file": "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/2. Flexercise 4 Advanced CRM Integration/2. Displaying Customer Profile/2. Plugin Code Walkthrough.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Styling React Components"
-
+              "title": "2. Plugin Code Walkthrough"
             }
           }
         ]
@@ -79,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 458.5
   },
   "right": {
     "id": "49b12df8d793ff25",
@@ -164,58 +163,56 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ba31abf1fdd499d0",
+  "active": "91318b57cf84ab6b",
   "lastOpenFiles": [
-    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/2. React Components/1. React Components.md",
-    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/2. React Components/2. Styling React Components.md",
-    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/2. React Components/3. Building a Custom React Component.md",
-    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations/4. Creating Plugin.md",
-    "Cursos de Front/Curso de React/1. Maquetación con react/2. Componentes de TODO Machine.md",
-    "Cursos de Front/Curso de React/1. Maquetación con react/1.  ¿Qué es un componente.md",
-    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations/3. Customizing Theme.md",
-    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations/2. Changing Logo.md",
-    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations/1. Introduction.md",
-    "Cursos de Front/Curso de React/Interacción con React.js/1. Eventos en React onClick, onChange.md",
-    "Cursos de Front/Curso de React/Interacción con React.js/2. ¿Que es el estado.md",
-    "Cursos de Front/Curso de React/1. Maquetación con react/4. Estilos CSS en React.md",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/2. Flexercise 4 Advanced CRM Integration/2. Displaying Customer Profile/1. Custom Components.md",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/2. Flexercise 4 Advanced CRM Integration/2. Displaying Customer Profile/2. Plugin Code Walkthrough.md",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/2. Flexercise 4 Advanced CRM Integration/1. New CRM/2. Updating the IVR for StorkCRM.md",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/2. Flexercise 4 Advanced CRM Integration/1. New CRM/1. StorkCRM.md",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/1. Flexercise 3 Embedding CRMs/7. Flex Inside a CRM.md",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/1. Flexercise 3 Embedding CRMs/6. CRM Embed Using postMessage.md",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/1. Flexercise 3 Embedding CRMs/5. CRM Embed Using uriCallback.md",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/1. Flexercise 3 Embedding CRMs/4. Displaying CRM Data in the UI.md",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/1. Flexercise 3 Embedding CRMs/1. About Integrations.md",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/1. Flexercise 3 Embedding CRMs/3. Building an IVR.md",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/1. Flexercise 3 Embedding CRMs/2. Introducing Our CRMs.md",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/2. Flexercise 4 Advanced CRM Integration/3. Cors/1. Fetching Data from a Plugin.md",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/2. Flexercise 4 Advanced CRM Integration/2. Displaying Customer Profile/3. Adding Information.md",
+    "Cursos Twilio/2. Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations/4. Creating Plugin.md",
+    "Cursos Twilio/2. Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/2. React Components/3. Building a Custom React Component.md",
+    "Cursos Twilio/2. Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations/2. Changing Logo.md",
+    "Cursos Twilio/2. Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/2. React Components/1. React Components.md",
+    "Cursos Twilio/2. Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations/3. Customizing Theme.md",
+    "Cursos Twilio/2. Flex Developer Certification/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/2. Plugin/2. Build your first plugin.md",
+    "Cursos Twilio/2. Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations/1. Introduction.md",
+    "Cursos Twilio/2. Flex Developer Certification/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/2. Plugin/1. Flex plugins.md",
+    "Cursos Twilio/2. Flex Developer Certification/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/1. Flex/2. Flex UI.md",
+    "Cursos Twilio/2. Flex Developer Certification/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/1. Flex/1. Introduction.md",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/2. Flexercise 4 Advanced CRM Integration/3. Cors/3. Calling the Function from a Plugin.md",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/2. Flexercise 4 Advanced CRM Integration/3. Cors/2. Adding a Twilio Function.md",
+    "Cursos Twilio/2. Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/2. React Components/2. Styling React Components.md",
+    "img/Pasted image 20250213213245.png",
+    "img/Pasted image 20250213213223.png",
+    "img/Pasted image 20250213213213.png",
+    "img/Pasted image 20250213212628.png",
+    "img/Pasted image 20250213212512.png",
+    "img/Pasted image 20250213212455.png",
+    "img/Pasted image 20250213212154.png",
+    "img/Pasted image 20250213212147.png",
+    "img/Pasted image 20250213212139.png",
+    "img/Pasted image 20250213212131.png",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/2. Flexercise 4 Advanced CRM Integration/3. Cors",
+    "Sin título.canvas",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/2. Flexercise 4 Advanced CRM Integration/2. Displaying Customer Profile",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/2. Flexercise 4 Advanced CRM Integration/1. New CRM",
+    "GIT/1. Fuindamentos de git",
     "Cursos de Front/Curso de React/Interacción con React.js",
-    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/2. Plugin/2. Build your first plugin.md",
-    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/2. Plugin/1. Flex plugins.md",
-    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/1. Flex/2. Flex UI.md",
-    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/1. Flexercise 1 Account Setup & Plugin Builder/1. Flex/1. Introduction.md",
-    "Cursos de Front/Curso de React/1. Maquetación con react/3.  ¿Cómo se comunican los componentes- Props y atributos.md",
-    "img/Pasted image 20250211135750.png",
-    "img/Pasted image 20250211135644.png",
-    "Cursos Twilio/Flex Developer Certification/2. Flex Introduction/5. Flex Insights.md",
     "Cursos de Front/Curso de React/1. Maquetación con react",
     "Cursos de Front/Curso de React",
-    "Cursos Twilio/Flex Developer Certification/2. Flex Introduction/4. Flex user management.md",
-    "Cursos Twilio/Flex Developer Certification/2. Flex Introduction/3. Twilio Studio.md",
-    "Cursos Twilio/Flex Developer Certification/2. Flex Introduction/2. The building blocks of Flex.md",
-    "Cursos Twilio/Flex Developer Certification/2. Flex Introduction/1. Introduction.md",
-    "Cursos Twilio/Flex Developer Certification/1. Studio and Serverless/2. Twilio Functions and Assets Fundamentals/8. Sample Function.md",
-    "Cursos Twilio/Flex Developer Certification/1. Studio and Serverless/2. Twilio Functions and Assets Fundamentals/7. Security.md",
-    "Cursos Twilio/Flex Developer Certification/1. Studio and Serverless/2. Twilio Functions and Assets Fundamentals/5. Function parameters.md",
-    "Cursos Twilio/Flex Developer Certification/1. Studio and Serverless/2. Twilio Functions and Assets Fundamentals/4. Functions.md",
-    "Cursos Twilio/Flex Developer Certification/1. Studio and Serverless/2. Twilio Functions and Assets Fundamentals/6. Troubleshooting.md",
-    "Cursos Twilio/Flex Developer Certification/1. Studio and Serverless/2. Twilio Functions and Assets Fundamentals/3. Assets.md",
-    "img/Pasted image 20250211095101.png",
-    "Cursos Twilio/Flex Developer Certification/4. CRM Integration Exercises/2. Flexercise 4 Advanced CRM Integration",
+    "Cursos Twilio/2. Flex Developer Certification/4. CRM Integration Exercises/2. Flexercise 4 Advanced CRM Integration",
     "GIT",
     "Sin nombre",
-    "img/Pasted image 20250210210352.png",
-    "img/Pasted image 20250210210212.png",
-    "img/Pasted image 20250210210058.png",
-    "img/Pasted image 20250210210033.png",
-    "img/Pasted image 20250210205521.png",
-    "img/Pasted image 20250210205510.png",
-    "img/Pasted image 20250210205324.png",
-    "Cursos Twilio/Flex Developer Certification/4. CRM Integration Exercises/1. Flexercise 3 Embedding CRMs",
-    "Cursos Twilio/Flex Developer Certification/4. CRM Integration Exercises",
-    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/2. React Components",
-    "Cursos Twilio/Flex Developer Certification/3. Flexercises 1 & 2/2. Flexercise 2 UI Customizations/1. Flex UI Customizations",
     "Cursos/Platform Developer - Certified Twilio Comms Platform Develop/2. Messaging introduction/2. Notify Fundamentals/Sin título.canvas",
-    "Cursos/Curso de Fundamentos de JavaScript/Introducción a JavaScript/Sin título.canvas",
-    "Sin título.canvas"
+    "Cursos/Curso de Fundamentos de JavaScript/Introducción a JavaScript/Sin título.canvas"
   ]
 }
