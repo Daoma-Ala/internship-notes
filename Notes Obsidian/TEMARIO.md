@@ -7,5 +7,8 @@ Notas de las diferentes certificaciones a lo largo de mi estadia en IZEI
 - ## [[Temario curso de TWILIO -- Platform Developer]]
 - ## [[Temario curso de TWILIO -- Flex Developer]]
 - ## [[Temario DOM]]
+- ## [[Temario GIT]]
+- ## [[Temario React]]
+- ## [[Temario de Fundamentos del Front]]
 
 
