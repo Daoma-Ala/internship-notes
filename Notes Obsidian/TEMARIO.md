@@ -10,5 +10,6 @@ Notas de las diferentes certificaciones a lo largo de mi estadia en IZEI
 - ## [[Temario GIT]]
 - ## [[Temario React]]
 - ## [[Temario de Fundamentos del Front]]
+- ## [[Temario de Node]]
 
 
